@@ -7,11 +7,22 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+At its core, I want to create an application that encourages travel. It will include preloaded attractions and resources to help depending on your interest. My girlfriend and I like to visit national parks, and I try to have an annual trip with a friend of mine to new city for a NBA game every year. I hope to make the planning and choosing where to go easier. There are a lot of resource available to help guide a trip once you have decided where to go, but there is a little to help determine where to go.
+
 ### Features
-Include Features here
+•	Suggestions by Attractions
+•	Details and Amenities
+•	Login for advanced features
+•	PTO Tracker
+•	Been There Done That
+•	Planning Page
+
 ### Technologies
-Include Technologies here
+•	Java
+•	Spring
+•	MySQL
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+•	Include maps 
+•	Calculate distance/travel time
+•	Include external data from other resources by utilizing API's
